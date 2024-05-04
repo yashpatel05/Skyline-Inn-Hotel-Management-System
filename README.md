@@ -1,4 +1,4 @@
-# Skyline Inn Hotel Management System
+# Skyline Inn - Hotel Management System
 
 Welcome to the Skyline Inn Hotel Management System, a web application designed to streamline hotel room booking processes with a user-friendly interface.
 
@@ -19,7 +19,7 @@ The Skyline Inn Hotel Management System simplifies the process of booking hotel 
 ### Frontend
 - HTML5
 - CSS3
-- AngularJS
+- AngularJS v17
 - TypeScript
 - Bootstrap
 
@@ -56,16 +56,16 @@ Admins have additional responsibilities and privileges, including:
 To run the Skyline Inn Hotel Management System locally:
 
 1. Clone this repository to your local machine.
-2. Install the necessary dependencies using npm install.
-3. Set up your MySQL database and configure the connection in the backend.
-4. Run the backend server using npm start.
-5. Navigate to the frontend directory and run the Angular development server using ng serve.
-6. Access the application in your web browser at http://localhost:4200.
+2. Install the necessary dependencies using npm install in both `Frontend` and `Backend` directories.
+3. Set up your MySQL database and configure the connection in the Backend's `.env` file.
+4. To create the tables on the database you can run the query in this file - [Database Tables](./Database%20Tabels.sql)
+5. Navigate to the Frontend directory and run the Angular development server using `npm start`.
+6. Navigate to the Backend directory and run the Backend server using `node .\App.js`.
+7. Access the application in your web browser at [http://localhost:4200/](http://localhost:4200/).
+   - To login as admin:
+      - **Username:** yash
+      - **Password:** Yash@1234
 
 ## Author
 
 - Yash Patel
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
