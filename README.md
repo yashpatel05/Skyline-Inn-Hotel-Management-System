@@ -43,14 +43,6 @@ The Skyline Inn Hotel Management System simplifies the process of booking hotel 
 - Booking Management: View and Manipulate Booking Details
 - User Management: Admin Privileges and Account Oversight
 
-## Admin Privileges
-
-Admins have additional responsibilities and privileges, including:
-
-- Add/Edit/Remove Rooms
-- Complete Booking Oversight
-- User Management: Edit, Delete Accounts, and Admin Privileges Control
-
 ## Get Started
 
 To run the Skyline Inn Hotel Management System locally:
