@@ -17,18 +17,18 @@ The Skyline Inn Hotel Management System simplifies the process of booking hotel 
 ## Technologies Used
 
 ### Frontend
-- HTML5
-- CSS3
-- AngularJS v17
-- TypeScript
-- Bootstrap
+- [![HTML5][HTML5-sheild]][HTML5-url]
+- [![CSS3][CSS3-sheild]][CSS3-url]
+- [![Angular.js][AngularJs-sheild]][AngularJs-url]
+- [![TypeScript][TypeScript-sheild]][TypeScript-url]
+- [![BootStrap][Bootstrap-sheild]][Bootstrap-url]
 
 ### Backend
-- Node.js
-- JavaScript
+- [![Node.js][NodeJs-sheild]][NodeJs-url]
+- [![JavaScript][JavaScript-sheild]][JavaScript-url]
 
 ### Database
-- MySQL
+- [![MySql][MySql-sheild]][MySql-url]
 
 ## Features
 
@@ -61,3 +61,21 @@ To run the Skyline Inn Hotel Management System locally:
 ## Author
 
 - Yash Patel
+
+<!-- Links & Logos -->
+[HTML5-sheild]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=%23fff
+[HTML5-url]: https://en.wikipedia.org/wiki/HTML5
+[CSS3-sheild]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3
+[CSS3-url]: https://css3.com/
+[JavaScript-sheild]: https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23fff
+[JavaScript-url]: https://www.javascript.com/
+[NodeJs-sheild]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=%23fff
+[NodeJs-url]: https://nodejs.org/en
+[TypeScript-sheild]: https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff
+[TypeScript-url]: https://www.typescriptlang.org/
+[AngularJs-sheild]: https://img.shields.io/badge/angular-dd0031?style=for-the-badge&logo=angular&logoColor=fff
+[AngularJs-url]: https://angular.io/
+[MySql-sheild]: https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=fff
+[MySql-url]: https://www.mysql.com/
+[Bootstrap-sheild]: https://img.shields.io/badge/Bootstrap-6d2cf1?style=for-the-badge&logo=Bootstrap&logoColor=fff
+[Bootstrap-url]: https://getbootstrap.com/
