@@ -62,6 +62,24 @@ To run the Skyline Inn Hotel Management System locally:
 
 - Yash Patel
 
+## Screenshots
+
+1. Login
+   ![image](https://github.com/yashpatel05/Skyline-Inn-Hotel-Management-System/assets/43314539/04e4cd4c-5249-4cc5-bde4-a17c5f45d19a)
+
+2. Admin View
+   **List of Rooms**
+   ![image](https://github.com/yashpatel05/Skyline-Inn-Hotel-Management-System/assets/43314539/78e0e13a-57b1-473f-a0c6-9abcc55eaf1a)
+
+   **List of bookings**
+   ![image](https://github.com/yashpatel05/Skyline-Inn-Hotel-Management-System/assets/43314539/22545a89-0519-4857-b70c-9db6d611d2ae)
+
+   **List of users**
+   ![image](https://github.com/yashpatel05/Skyline-Inn-Hotel-Management-System/assets/43314539/ddd34c51-17de-4547-9111-a291567f3288)
+
+3. User View
+   ![image](https://github.com/yashpatel05/Skyline-Inn-Hotel-Management-System/assets/43314539/f40aa2f5-163d-445a-b7e6-231082b428f2)
+
 <!-- Links & Logos -->
 [HTML5-sheild]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=%23fff
 [HTML5-url]: https://en.wikipedia.org/wiki/HTML5
